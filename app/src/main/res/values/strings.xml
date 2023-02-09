@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login Page</string>
+    <string name="nicknameHint">Kullanıcı Adı Giriniz</string>
+    <string name="passwordHint">Şifre Giriniz</string>
+    <string name="kayitOnayString">Kayıtı Onayla</string>
+    <string name="girisOnayString">Giriş Yap</string>
+</resources>
